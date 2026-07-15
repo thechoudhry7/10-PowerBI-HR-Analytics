@@ -57,13 +57,13 @@ Developed an interactive HR Analytics Dashboard in Microsoft Power BI to analyze
 
 ### Dashboard 1 – Workforce Overview
 
-![HR Analytics Dashboard 1](Images/Dashboard1.png)
+![HR Analytics Dashboard](Images/Dashboard1.png)
 
 ---
 
 ### Dashboard 2 – Attrition & Performance Analysis
 
-![HR Analytics Dashboard 1](Images/Dashboard2.png)
+![HR Analytics Dashboard](Images/Dashboard2.png)
 ---
 
 ## 📈 Key Performance Indicators (KPIs)
@@ -104,7 +104,8 @@ Developed an interactive HR Analytics Dashboard in Microsoft Power BI to analyze
 │   └── HR_Analytics_Data.xlsx
 │
 └── Images
-│   └── Dashboard.png
+    ├── Dashboard1.png
+    └── Dashboard2.png
 ```
 
 ---
