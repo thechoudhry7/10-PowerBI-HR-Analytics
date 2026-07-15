@@ -63,7 +63,7 @@ Developed an interactive HR Analytics Dashboard in Microsoft Power BI to analyze
 
 ### Dashboard 2 – Attrition & Performance Analysis
 
-![HR Analytics Dashboard 2](Images/Dashboard2.png)
+![HR Analytics Dashboard 1](Images/Dashboard2.png)
 ---
 
 ## 📈 Key Performance Indicators (KPIs)
